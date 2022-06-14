@@ -9,7 +9,7 @@ NotifyLib.prompt('Knele God', 'Knele#5384', 5)
         rewrittenmain = {
         Enabled = true,
         Key = "q",
-        DOT = true,
+        DOT = false,
         AIRSHOT = true,
         NOTIF = true,
         AUTOPRED = false,
